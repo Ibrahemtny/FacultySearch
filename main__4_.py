@@ -1,6 +1,3 @@
-#Ibrahem Tamimi   itamim3@uic.edu
-
-#I hereby attest that I have adhered to the rules for quizzes and projects as well as UIC’s Academic Integrity standards. Signed:Ibrahem Tamimi
 
 
 import requests
