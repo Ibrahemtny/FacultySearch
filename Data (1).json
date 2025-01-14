@@ -1,0 +1,611 @@
+[
+    {
+        "Name": "Abramov,\n          Rafail",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-7945",
+        "Email": "abramov@uic.edu"
+    },
+    {
+        "Name": "Adrovic,\n          Danko",
+        "Academic Title": "Clinical Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-9141",
+        "Email": "dadrov1@uic.edu"
+    },
+    {
+        "Name": "Ash,\n          Will",
+        "Academic Title": "Senior Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-2446",
+        "Email": "wash@uic.edu"
+    },
+    {
+        "Name": "Awanou,\n          Gerard",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2167",
+        "Email": "awanou@uic.edu"
+    },
+    {
+        "Name": "Bakker,\n          Ben",
+        "Academic Title": "Associate Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "bakker@uic.edu"
+    },
+    {
+        "Name": "Birkett,\n          Richard A. P.",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "rbirkett@uic.edu"
+    },
+    {
+        "Name": "Bode,\n          Martina",
+        "Academic Title": "Clinical Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-3752",
+        "Email": "bodem@uic.edu"
+    },
+    {
+        "Name": "Bona,\n          Jerry",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2567",
+        "Email": "jbona@uic.edu"
+    },
+    {
+        "Name": "Bridges,\n          Tabes",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2143",
+        "Email": "mbridg5@uic.edu"
+    },
+    {
+        "Name": "Call,\n          Benjamin",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "bcall@uic.edu"
+    },
+    {
+        "Name": "Carter,\n          Andrea",
+        "Academic Title": "Visiting Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "acarter0@uic.edu"
+    },
+    {
+        "Name": "Castro Superfine,\n          Alison",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "amcastro@uic.edu"
+    },
+    {
+        "Name": "Cojocaru,\n          Alina Carmen",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-9153",
+        "Email": "cojocaru@uic.edu"
+    },
+    {
+        "Name": "Coskun,\n          Izzet",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2152",
+        "Email": "icoskun@uic.edu"
+    },
+    {
+        "Name": "Dai,\n          Mimi",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-2440",
+        "Email": "mdai@uic.edu"
+    },
+    {
+        "Name": "Devi,\n          Shavila",
+        "Academic Title": "Senior Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-8610",
+        "Email": "sdevi@uic.edu"
+    },
+    {
+        "Name": "Diep,\n          Vi",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-3742",
+        "Email": "vdiep3@uic.edu"
+    },
+    {
+        "Name": "Drueck,\n          Fred",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-5122",
+        "Email": "fdruec1@uic.edu"
+    },
+    {
+        "Name": "Drueck,\n          Fred",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-5122",
+        "Email": "fdruec1@uic.edu"
+    },
+    {
+        "Name": "Dumas,\n          David",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "ddumas@uic.edu"
+    },
+    {
+        "Name": "Ein,\n          Lawrence",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-2372",
+        "Email": "ein@uic.edu"
+    },
+    {
+        "Name": "Embers,\n          Dale",
+        "Academic Title": "Senior Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2143",
+        "Email": "dembers@uic.edu"
+    },
+    {
+        "Name": "Freitag,\n          James",
+        "Academic Title": "Associate Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "jfreitag@uic.edu"
+    },
+    {
+        "Name": "Furman,\n          Alexander",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "furman@uic.edu"
+    },
+    {
+        "Name": "Greenblatt,\n          Michael",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-3741",
+        "Email": "greenbla@uic.edu"
+    },
+    {
+        "Name": "Groves,\n          Daniel",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "dgroves@uic.edu"
+    },
+    {
+        "Name": "Han,\n          Kyunghee",
+        "Academic Title": "Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "hankh@uic.edu"
+    },
+    {
+        "Name": "Harrison-Trainor,\n          Matthew",
+        "Academic Title": "Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-8616",
+        "Email": "mht@uic.edu"
+    },
+    {
+        "Name": "Ingebretson,\n          Daniel",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "dingeb2@uic.edu"
+    },
+    {
+        "Name": "Jackson,\n          Billy",
+        "Academic Title": "Clinical Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-5120",
+        "Email": "bjjack06@uic.edu"
+    },
+    {
+        "Name": "Jain,\n          Vishesh",
+        "Academic Title": "Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-5924",
+        "Email": "visheshj@uic.edu"
+    },
+    {
+        "Name": "Jones,\n          Nathan",
+        "Academic Title": "Research Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-9322",
+        "Email": "ncjones@uic.edu"
+    },
+    {
+        "Name": "Jovinelly,\n          Eric",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "ejovinel@uic.edu"
+    },
+    {
+        "Name": "Kashcheyeva,\n          Olga",
+        "Academic Title": "Research Associate Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2142",
+        "Email": "kolga@uic.edu"
+    },
+    {
+        "Name": "Khalil,\n          Osama",
+        "Academic Title": "Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "okhalil@uic.edu"
+    },
+    {
+        "Name": "Kobotis,\n          Evangelos",
+        "Academic Title": "Senior Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-5439",
+        "Email": "evangelo@uic.edu"
+    },
+    {
+        "Name": "Kursell,\n          Anita",
+        "Academic Title": "Senior Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2174",
+        "Email": "akurse2@uic.edu"
+    },
+    {
+        "Name": "Lee-Hassan,\n          Alexa",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "aleeha2@uic.edu"
+    },
+    {
+        "Name": "Looper,\n          Nicole",
+        "Academic Title": "Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "nrlooper@uic.edu"
+    },
+    {
+        "Name": "Lyu,\n          Shiji",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "slyu@uic.edu"
+    },
+    {
+        "Name": "Mahadeo,\n          Christopher",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-4840",
+        "Email": "cmahadeo@uic.edu"
+    },
+    {
+        "Name": "Majumdar,\n          Dibyen",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-4833",
+        "Email": "dibyen@uic.edu"
+    },
+    {
+        "Name": "Martin,\n          Danny",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-0304",
+        "Email": "dbmartin@uic.edu"
+    },
+    {
+        "Name": "Martinez,\n          Mara",
+        "Academic Title": "Associate Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "maravmar@uic.edu"
+    },
+    {
+        "Name": "McNamara,\n          Alycia",
+        "Academic Title": "Senior Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-2446",
+        "Email": "alyciam@uic.edu"
+    },
+    {
+        "Name": "Meyer,\n          McKinley",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "mmeyer31@uic.edu"
+    },
+    {
+        "Name": "Michelen,\n          Marcus",
+        "Academic Title": "Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-5924",
+        "Email": "michelen@uic.edu"
+    },
+    {
+        "Name": "Moreland,\n          Gwyneth",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "gwynm@uic.edu"
+    },
+    {
+        "Name": "Mubayi,\n          Dhruv",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-8036",
+        "Email": "mubayi@uic.edu"
+    },
+    {
+        "Name": "Mutchnik,\n          Scott",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "mutchnik@uic.edu"
+    },
+    {
+        "Name": "Nagloo,\n          Ronnie",
+        "Academic Title": "Associate Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2177",
+        "Email": "jnagloo@uic.edu"
+    },
+    {
+        "Name": "Nenciu,\n          Irina",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-7694",
+        "Email": "nenciu@uic.edu"
+    },
+    {
+        "Name": "Nguyen,\n          Phi",
+        "Academic Title": "Bridge to Faculty Postdoctoral Research Associate",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "pknguyen@uic.edu"
+    },
+    {
+        "Name": "Nicholls,\n          David",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-1641",
+        "Email": "davidn@uic.edu"
+    },
+    {
+        "Name": "Ouyang,\n          Cheng",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2153",
+        "Email": "couyang@uic.edu"
+    },
+    {
+        "Name": "Pajda-De La O,\n          Jennifer",
+        "Academic Title": "Clinical Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "jpajda2@uic.edu"
+    },
+    {
+        "Name": "Pourarian,\n          Shokouh",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2174",
+        "Email": "sharian@uic.edu"
+    },
+    {
+        "Name": "Protsak,\n          Victor",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-3746",
+        "Email": "vp20@uic.edu"
+    },
+    {
+        "Name": "Reyzin,\n          Lev",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-3745",
+        "Email": "lreyzin@uic.edu"
+    },
+    {
+        "Name": "Ross,\n          Julius",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-3044",
+        "Email": "juliusro@uic.edu"
+    },
+    {
+        "Name": "Saia,\n          Frederick",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "fsaia@uic.edu"
+    },
+    {
+        "Name": "Schaposnik,\n          Laura",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "schapos@uic.edu"
+    },
+    {
+        "Name": "Schock,\n          Nolan",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "nschoc2@uic.edu"
+    },
+    {
+        "Name": "Schubert,\n          Erin",
+        "Academic Title": "Senior Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-8377",
+        "Email": "eschub1@uic.edu"
+    },
+    {
+        "Name": "Shipley,\n          Brooke",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-3044",
+        "Email": "shipleyb@uic.edu"
+    },
+    {
+        "Name": "Shulman,\n          Andrew",
+        "Academic Title": "Senior Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-5439",
+        "Email": "ashulm2@uic.edu"
+    },
+    {
+        "Name": "Shvydkoy,\n          Roman",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2967",
+        "Email": "shvydkoy@uic.edu"
+    },
+    {
+        "Name": "Simpson,\n          Gilberto",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-1724",
+        "Email": "gds1@uic.edu"
+    },
+    {
+        "Name": "Sparber,\n          Christof",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-2443",
+        "Email": "sparber@uic.edu"
+    },
+    {
+        "Name": "Steenbergen,\n          John",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2146",
+        "Email": "jbergen@uic.edu"
+    },
+    {
+        "Name": "Stibitz,\n          Charles",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "cstibitz@uic.edu"
+    },
+    {
+        "Name": "Switala,\n          Nicholas",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-7639",
+        "Email": "nswitala@uic.edu"
+    },
+    {
+        "Name": "Takloo-Bighash,\n          Ramin",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-3743",
+        "Email": "rtakloo@uic.edu"
+    },
+    {
+        "Name": "Taylor,\n          Gregory",
+        "Academic Title": "Visiting Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-7639",
+        "Email": "gtaylo9@uic.edu"
+    },
+    {
+        "Name": "Tucker,\n          Kevin",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-3150",
+        "Email": "kftucker@uic.edu"
+    },
+    {
+        "Name": "Turan,\n          Gyorgy",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2151",
+        "Email": "gyt@uic.edu"
+    },
+    {
+        "Name": "Van Limbeek,\n          Wouter",
+        "Academic Title": "Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "wouter@uic.edu"
+    },
+    {
+        "Name": "Verschelde,\n          Jan",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-4609",
+        "Email": "janv@uic.edu"
+    },
+    {
+        "Name": "Vo,\n          Liet",
+        "Academic Title": "Research Assistant Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-2186",
+        "Email": "lietvo@uic.edu"
+    },
+    {
+        "Name": "Wang,\n          Jing",
+        "Academic Title": "Associate Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-4835",
+        "Email": "jiwang12@uic.edu"
+    },
+    {
+        "Name": "Whyte,\n          Kevin",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2158",
+        "Email": "kwhyte@uic.edu"
+    },
+    {
+        "Name": "Woldeit,\n          Anthony",
+        "Academic Title": "Lecturer",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "woldeit1@uic.edu"
+    },
+    {
+        "Name": "Wu,\n          Yichao",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-2156",
+        "Email": "yichaowu@uic.edu"
+    },
+    {
+        "Name": "Yang,\n          Jie",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-3748",
+        "Email": "jyang06@uic.edu"
+    },
+    {
+        "Name": "Yang,\n          Min",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-996-8612",
+        "Email": "myang2@uic.edu"
+    },
+    {
+        "Name": "Zhang,\n          Wenliang",
+        "Academic Title": "Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "N/A",
+        "Email": "wlzhang@uic.edu"
+    },
+    {
+        "Name": "Zhong,\n          Ping-Shou",
+        "Academic Title": "Associate Professor",
+        "Department": "Mathematics, Statistics, and Computer Science",
+        "Phone": "312-413-7691",
+        "Email": "pszhong@uic.edu"
+    }
+]
