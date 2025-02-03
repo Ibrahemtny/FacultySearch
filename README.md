@@ -39,6 +39,9 @@ After the script runs, the scraped data will be stored in a JSON file (Data (1).
 
 Open the index__2_.html file in your browser to view the faculty data.
 
+
+
+
 Disclaimer: All Data Belongs to the University of Illinois
 
 
