@@ -1,6 +1,6 @@
 # UIC Faculty Search - CS & Math Professors
 
-A web scraping project to search for faculty members from the University of Illinois at Chicago (UIC) Computer Science and Mathematics departments. The application scrapes and collects publicly available data about faculty members including their names, titles, research interests, and contact information.
+A web scraper that searches for faculty members from the University of Illinois at Chicago (UIC) Computer Science and Mathematics departments. The application scrapes and collects publicly available data about faculty members including their names, titles, research interests, and contact information.
 
 ## Features
 - **Web Scraping**: Collects data on professors from UIC’s Computer Science and Mathematics faculty pages.
@@ -38,5 +38,7 @@ python main__4_.py
 After the script runs, the scraped data will be stored in a JSON file (Data (1).json) for easy analysis.
 
 Open the index__2_.html file in your browser to view the faculty data.
+
+Disclaimer: All Data Belongs to the University of Illinois
 
 
